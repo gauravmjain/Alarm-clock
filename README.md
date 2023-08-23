@@ -6,6 +6,7 @@ A simple Alarm clock design which give alart when alarm.
   <li>Click on add Alarm to add alarm </li>
   <li>When the alarm goes of JS alert function alert in the browser</li>
 </ul>
+
 # page View
 
 ![image](https://github.com/gauravmjain/Alarm-clock/assets/91288299/dcef3d10-fbc5-4084-8c18-c7404ea30b2a)
