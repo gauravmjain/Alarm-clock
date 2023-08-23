@@ -1,5 +1,11 @@
 # Alarm-clock
 A simple Alarm clock design which give alart when alarm. 
+# How to run Project
+<ul>
+  <li>Select time on drop down menu</li>
+  <li>Click on add Alarm to add alarm </li>
+  <li>When the alarm goes of JS alert function alert in the browser</li>
+</ul>
 # page View
 ![image](https://github.com/gauravmjain/Alarm-clock/assets/91288299/3010837e-aafd-4016-8e91-f4b63744a74b)
 
