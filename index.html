@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src="https://kit.fontawesome.com/c7caeefe18.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <main>
+        <div id = "clock-box">
+           <h1>12:00:00 AM</h1>
+        </div>
+        <div class ="set-alarm">
+            <div class="drop-down">
+                <select>
+                    <option value="Hours" selected hidden>Hours</option>
+                </select>
+                <select>
+                    <option value="Minute" selected hidden>Minute</option>
+                </select>
+                <select>
+                    <option value="AM/PM" selected hidden>AM/PM</option>
+                </select>
+            </div>
+                <button class = "btn">Add Alarm</button>
+        </div>
+        <div class = "alarms">
+            <div id = "empty"></div>
+        </div>
+    </main>
+    <footer>
+        <h1>Drag And Drop to Delete Set Alarm</h1>
+    </footer>
+
+    <script src='main.js'></script>
+</body>
+</html>
