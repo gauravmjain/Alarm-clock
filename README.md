@@ -7,10 +7,12 @@ A simple Alarm clock design which give alart when alarm.
   <li>When the alarm goes of JS alert function alert in the browser</li>
 </ul>
 # page View
-![image](https://github.com/gauravmjain/Alarm-clock/assets/91288299/3010837e-aafd-4016-8e91-f4b63744a74b)
+
+![image](https://github.com/gauravmjain/Alarm-clock/assets/91288299/dcef3d10-fbc5-4084-8c18-c7404ea30b2a)
 
 ## 💻Tech Stack
 <br>
+
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
