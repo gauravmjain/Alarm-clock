@@ -1,5 +1,6 @@
 # Alarm-clock
 A simple Alarm clock design which give alart when alarm. 
+https://gauravmjain.github.io/Alarm-clock/
 # How to run Project
 <ul>
   <li>Select time on drop down menu</li>
